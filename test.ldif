@@ -1,0 +1,43 @@
+dn: uid=aab, cn=m.gov.mu
+JobTitle: Regional Health Director
+telephoneNumber: 413
+street: Flacq
+sn:
+hostServer: m.gov.mu
+mail: aabl@m.gov.mu
+JobClassName: Health Class
+uid: aabdool
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: CommuniGateAccount
+facsimileTelephoneNumber: 413
+MinDept: MOH
+title: Dr
+cn: A Sen
+ParentMinistry: Human Resource
+MinCode: MOH
+
+
+dn: uid=owehgwoqeghwqeghweghqwe, cn=m.gov.mu
+JobTitle: Regional Health Director
+telephoneNumber: 413
+street: Flacq
+sn:
+hostServer: m.gov.mu
+mail: aabl@m.gov.mu
+JobClassName: Health Class
+uid: owehgwoqeghwqeghweghqwe
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: CommuniGateAccount
+facsimileTelephoneNumber: 413
+MinDept: MOH
+title: Dr
+cn: A Sen
+ParentMinistry: Human Resource
+MinCode: MOH
+
